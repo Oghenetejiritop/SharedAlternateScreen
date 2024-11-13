@@ -31,7 +31,7 @@ namespace SharedAlternateScreen
         }
 
 
-        /// Implemented ethod to check for a valid media source.
+        /// Implemented method to check for a valid media source.
         /// </summary>
         /// <param name="source">string source of Media  content</param>
         /// <returns>Boolean</returns>
@@ -40,7 +40,7 @@ namespace SharedAlternateScreen
             return false;
         }
 
-        /// Implemented ethod to check for a valid document media type.
+        /// Implemented method to check for a valid document media type.
         /// </summary>
         /// <param name="type">string source of document media  content</param>
         /// <returns>Boolean</returns>
